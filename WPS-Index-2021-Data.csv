@@ -1,4 +1,4 @@
-﻿WPS Index rank,Country,WPS Index score,Education (years) ,Financial inclusion (%),Employment (%),Cell phone use (%) ^m,Parliamentary representation (%),Absensce of legal discrimination (aggregate score),Sex ratio at birth (male to female ratio),Discriminatry norms (%),Intimate partner violence (%),Perception of community safety (%) ^m,"Organized violence (battle deaths per 100,000 people)"
+WPS Index rank,Country,WPS Index score,Education (years) ,Financial inclusion (%),Employment (%),Cell phone use (%) ^m,Parliamentary representation (%),Absensce of legal discrimination (aggregate score),Sex ratio at birth (male to female ratio),Discriminatry norms (%),Intimate partner violence (%),Perception of community safety (%) ^m,"Organized violence (battle deaths per 100,000 people)"
 1,Norway,0.922,13,100,58.9,99,45.6,96.9,1.06,0,4,89.5,0
 2,Finland,0.909,12.9,99.6,52.7,100,46,97.5,1.05,1,8,80.9,0
 3,Iceland,0.907,12.6,92.4,64.2,99.6,39.7,100,1.05,0,3,72.6,0
@@ -120,7 +120,7 @@
 119,Sao Tome and Principe,0.656,5.8,44.2,39.9,76.4,23.6,86.3,1.03,22.3,18,48,0
 120,Senegal,0.655,1.9,38.4,36.9,76.6,43,66.9,1.04,22,12,39.4,0
 120,Togo,0.655,3.5,37.6,66.5,68.2,18.7,84.4,1.02,9,13,47.7,0
-122,Côte d'Ivoire,0.654,4.2,35.6,52,98.4,13.6,83.1,1.03,15,16,42.8,0
+122,C�te d'Ivoire,0.654,4.2,35.6,52,98.4,13.6,83.1,1.03,15,16,42.8,0
 123,Kuwait,0.653,8,73.5,48.5,99.8,1.5,28.8,1.05,47,18.1,84.1,0
 124,Lesotho,0.65,7.2,46.5,50.6,74.7,22.9,78.1,1.03,19,16,26.9,0
 125,Iran,0.649,10.3,91.6,14.8,91.2,5.6,31.3,1.05,38,18,66.1,0.2
